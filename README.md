@@ -1,4 +1,6 @@
-![Twitch Channel Points Miner - v2](https://i.imgur.com/snEleKl.mp4)
+https://github.com/user-attachments/assets/10097693-c277-4672-ae6a-52908aa95c58
+
+
 <p align="center">
 <a href="https://github.com/rdavydov/Twitch-Channel-Points-Miner-v2/releases"><img alt="Latest Version" src="https://img.shields.io/github/v/release/rdavydov/Twitch-Channel-Points-Miner-v2?style=flat&color=white&logo=github&logoColor=white"></a>
 <a href="https://github.com/rdavydov/Twitch-Channel-Points-Miner-v2/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/rdavydov/Twitch-Channel-Points-Miner-v2?style=flat&color=limegreen&logo=github&logoColor=white"></a>
