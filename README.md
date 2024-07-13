@@ -1,0 +1,2 @@
+# namemc
+NameMc ViewBot
