@@ -14,4 +14,4 @@ https://github.com/user-attachments/assets/b42f48ad-0e16-455e-a2de-83279ab19220
 For proxies u'll need a provider, the one working i used in the video is [DataImpulse](https://dataimpulse.com/?aff=36026)
 
 ## How to use:
-First of all please create a run.py file. You can just copy [example.py](https://github.com/rdavydov/Twitch-Channel-Points-Miner-v2/blob/master/example.py) and modify it according to your needs.
+The process is really simple, first install the requirements, next open the cmd and execute the namemc.py application, next u'll need to put ur username (obv) and then the number of ur profile that u can find after the dot at the end of the link in ur [NameMc](https://it.namemc.com/profile/TrentaSei.2) profile & for the final part just put how many views u wanna add to ur profile.
